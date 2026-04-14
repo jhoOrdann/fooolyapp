@@ -1,8 +1,10 @@
 # 🎵 Foooly
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/platform-web%20%7C%20desktop-blue?style=for-the-badge">
+  <a href="https://github.com/jhoOrdann/fooolyapp/releases">
+    <img src="https://img.shields.io/github/v/release/jhoOrdann/fooolyapp?label=%C3%BAltima%20vers%C3%A3o&color=orange&style=for-the-badge" alt="Release" />
+  </a>
+  <img src="https://img.shields.io/badge/platform-web%20%7C%20desktop%20%7C%20mobile-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge">
 </p>
 
