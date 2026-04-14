@@ -20,7 +20,7 @@ O **Foooly** é um aplicativo de música em que a comunidade contribui fazendo u
 
 ## ✨ Principais funcionalidades
 
-📝 Letras sincronizadas 
+📝 Letras sincronizadas<br>
 🎨 Temas dinâmicos  
 📑 Playlists personalizadas  
 🔍 Busca por música, artista ou álbum   
